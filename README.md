@@ -4,6 +4,8 @@
 
 Type your markdown into the box on the left and immediately see if on the box on the right.
 
+The editor has the capacity for realtime collaboration using ShareJS.
+
 ### How to use this? 🔽
 
 * Clone the repo using `git clone https://github.com/Adityasinghvats/Visual-MarkDown.git`.
@@ -19,8 +21,11 @@ Type your markdown into the box on the left and immediately see if on the box on
 This website uses the following to work:
 
  - [Showdown](https://github.com/showdownjs/showdown) - Converts markdown text to beautiful HTML
+ - [ShareJS](http://sharejs.org/) - allows for realtime editing of this textbox
  - [Node.js](https://nodejs.org/) - backend framework 
+ - [Redis](http://redis.io/) - where we store our markdown documents
  - [Twitter Bootstrap](http://getbootstrap.com/) - makes everything a little prettier
 
 ### Demo 😲
-![Screenshot 2025-01-21 232346](https://github.com/user-attachments/assets/9b261d2d-24f0-44d0-8313-005db67bacc2)
+![Screenshot 2025-01-23 140558](https://github.com/user-attachments/assets/af8e679c-75da-43ce-8660-6c60ac3c5aef)
+
