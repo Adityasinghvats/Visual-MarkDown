@@ -8,11 +8,17 @@ The editor has the capacity for realtime collaboration using ShareJS.
 
 ### How to use this? 🔽
 
-* Clone the repo using `git clone https://github.com/Adityasinghvats/Visual-MarkDown.git`.
+* Clone the repo using
+  ```sh
+  git clone https://github.com/Adityasinghvats/Visual-MarkDown.git
+  ```
 
 * Open the project in VS Code and go the root directory.
 
-* Run the server using `node server.js`.
+* Run the server using
+  ```sh
+  node server.js
+  ```
 
 * Access the editor at `localhost:8000`.
 
